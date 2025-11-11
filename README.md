@@ -1,3 +1,37 @@
+Skip to content
+Navigation Menu
+ManasaSaravanan
+Exp-4
+
+Type / to search
+Code
+Pull requests
+Actions
+Projects
+Security
+Insights
+Owner avatar
+Exp-4
+Public
+forked from RavindharNV/Exp-4
+ManasaSaravanan/Exp-4
+Go to file
+t
+This branch is 1 commit ahead of RavindharNV/Exp-4:main.
+Name		
+ManasaSaravanan
+ManasaSaravanan
+Update README.md
+3888b5f
+ · 
+2 weeks ago
+README.md
+Update README.md
+2 weeks ago
+Repository files navigation
+README
+MANASA S
+212224220059
 Exp - 4 HOSPITAL MANAGEMENT SYSTEM
 AIM:
 To study the problem statement ,SRS document and draw the UML diagram of hospital management system.
@@ -66,3 +100,11 @@ Footer
 Footer navigation
 Terms
 Privacy
+Security
+Status
+Community
+Docs
+Contact
+Manage cookies
+Do not share my personal information
+Editing Exp-4/README.md at main · maddy-madhavan/Exp-4
