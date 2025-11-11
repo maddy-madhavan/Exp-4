@@ -1,51 +1,68 @@
-```
-Name: Madhavan k
-Reg.no: 212224220054
-```
-# Exp - 4 HOSPITAL MANAGEMENT SYSTEM
+Exp - 4 HOSPITAL MANAGEMENT SYSTEM
+AIM:
+To study the problem statement ,SRS document and draw the UML diagram of hospital management system.
 
-# AIM:
+SRS (Procedure):
+Create the following diagrams in StarUML:
 
-To develop the Hospital management System using Star UML tool.
+Use Case Diagram
 
-# SRS (Procedure):
+Class Diagram
 
-1. Create a New Project
-2. Draw Use Case Diagram
-3. Create Class Diagram
-4. Create Sequence Diagrams
-5. Create Activity Diagrams
-6. Create State Machine Diagram
-7. Save and Export
+Activity Diagram
 
-# DIAGRAMS:
-USECASE DIAGRAM
+Package Diagram
 
-![usecase4](https://github.com/user-attachments/assets/fb0ec00d-1aaf-480d-9ec7-63e100ab5c37)
+Communication Diagram
 
+Sequence Diagram
 
-CLASS DIAGRAM
+1 . The patient books and confirms an appointment with the receptionist.
 
-![class4](https://github.com/user-attachments/assets/da023a04-df46-4aa7-b443-1bdccc4e98e7)
+2 . After registration, the patient undergoes check-ups and tests.
 
+3 . A prescription is written based on the diagnosis.
 
-ACTIVITY DIAGRAM
+4 . The system checks if the prescribed medicine is available.
 
-![activity4](https://github.com/user-attachments/assets/3a6cd41f-4bad-445f-b428-cae8fe9297db)
+5 . If available, medicine is dispensed; if not, it is procured first.
 
-SEQUENCE DIAGRAM
+6 . Finally, stocks are updated and the patient pays the bills.
 
-![sequence4](https://github.com/user-attachments/assets/5748ca3e-6596-4ac8-8b68-cf7775bb63e9)
+DIAGRAMS:
+USE CASE DIAGRAM:
+Screenshot 2025-10-07 154807
+CLASS DIAGRAM:
+Screenshot 2025-10-07 160301
+ACTIVITY DIAGRAM:
+Screenshot 2025-10-08 102212
+PACKAGE DIAGRAM:
+Screenshot 2025-10-08 104527
+COMMUNICATION DIAGRAM:
+Screenshot 2025-10-08 104051
+SEQUENCE DIAGRAM:
+Screenshot 2025-10-08 103313
+RESULT:
+Thus, the UML Diagrams for a Hospital Management System has been drawn and verified.
 
-PACKAGE DIRAGRAM
-
-![package4](https://github.com/user-attachments/assets/63635b94-cc98-4518-95ef-2ed087b67c78)
-
-
-COMMUNICATION DIAGRAM
-
-![comm4](https://github.com/user-attachments/assets/63d299a0-8a22-471b-9f65-bde4c1afb264)
-
-
-# RESULT:
-Thus the Hospital management System project was executed and the output was verified.
+About
+No description, website, or topics provided.
+Resources
+ Readme
+ Activity
+Stars
+ 0 stars
+Watchers
+ 0 watching
+Forks
+ 0 forks
+Report repository
+Releases
+No releases published
+Packages
+No packages published
+Footer
+© 2025 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
